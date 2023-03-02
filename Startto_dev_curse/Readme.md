@@ -29,7 +29,7 @@ Basic Dart lessons offered by startto.dev
 -   [Coleções](https://github.com/theHprogrammer/DART_Class/tree/main/Startto_dev_curse/DART_003)
 -   [Recursos Extras](https://github.com/theHprogrammer/DART_Class/tree/main/Startto_dev_curse/DART_004)
 
-## Dart Básico e Intermediário
+## Orientação a Objetos
 
 -   [Introdução a Orientação a Objetos](https://github.com/theHprogrammer/DART_Class/tree/main/Startto_dev_curse/DART_005)
 -   [Herança e Polimorfismo](https://github.com/theHprogrammer/DART_Class/tree/main/Startto_dev_curse/DART_006)
