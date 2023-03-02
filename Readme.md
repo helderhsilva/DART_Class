@@ -14,7 +14,7 @@ Courses, classes and exercises with the DART language.
 
 ### Basic, intermediate and object-oriented Dart course, by: Startto.dev
 
--   [Acess Here](#)
+-   [Acess Here](https://github.com/theHprogrammer/DART_Class/tree/main/Startto_dev_curse)
 
 ---
 
@@ -43,7 +43,7 @@ $ git clone https://github.com/helderhsilva/DART_Class
 <table align="center">
     <tr>
         <td align="center">
-            <a href="https://github.com/helderhsilva">
+            <a href="https://github.com/theHprogrammer">
                 <img src="https://avatars.githubusercontent.com/u/79870881?v=4" width="150px;" alt="Helder's Image" />
                 <br />
                 <sub><b>Helder Henrique</b></sub>
@@ -52,5 +52,5 @@ $ git clone https://github.com/helderhsilva/DART_Class
     </tr>
 </table>
 <h4 align="center">
-   By: <a href="https://www.linkedin.com/in/helderhsilva/" target="_blank"> Helder Henrique </a>
+   By: <a href="https://www.linkedin.com/in/thehprogrammer/" target="_blank"> Helder Henrique </a>
 </h4>
