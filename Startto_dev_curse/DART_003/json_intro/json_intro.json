@@ -1,0 +1,32 @@
+{
+	"_comment1": "JSON é um formato de dados leve que é muito comum em APIs e aplicações web.",
+	"_comment2": "É um formato de dados que é independente de linguagem de programação.",
+	"_comment3": "Ele permite que os dados sejam organizados e estruturados.",
+	"_comment4": "Assim eles podem ser facilmente armazenados e transmitidos entre aplicações.",
+	"nome": "Helder",
+	"sobrenome": "Henrique",
+	"idade": 25,
+	"casado": true,
+	"altura": 1.7,
+	"cursos": [
+		{
+			"nome": "Python",
+			"nivel": "Básico"
+		},
+		{
+			"nome": "Dart",
+			"nivel": "Intermediário"
+		},
+		{
+			"nome": "Flutter",
+			"nivel": "Avançado"
+		}
+	],
+	"endereço": {
+		"rua": "Rua dos Bobos",
+		"numero": 0,
+		"bairro": "Centro",
+		"cidade": "São Paulo",
+		"estado": "SP"
+	}
+}
